@@ -5,6 +5,12 @@
 
 Please share your thoughts on Oh My Zsh... they might help influence others to use and/or avoid it like the black plague.
 
+> For most of my life, I worried that $\small\textcolor{brown}{Sasquatch}$ was real, but now that I am using $\normalsize\textcolor{Aquamarine}{Oh My Zsh}$, hardly any modification is needed to have a terminal full of syntactic color and quality-of-life settings. Since then, I haven't worried about Sasquatch-like things anymore.
+>
+> -- **[@Balderding](https://github.com/Balderding)**
+
+---
+
 > **Oh My Zsh is probably the only good thing I've ever done with my life.**
 >
 > -- **[@robbyrussell](https://github.com/robbyrussell)**
